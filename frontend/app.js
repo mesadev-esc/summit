@@ -1,4 +1,4 @@
-const API_URL = "https://api.summit.yourdomain/search"; // change later
+const API_URL = "https://summit-umyx.onrender.com/search"; // change later
 
 async function search() {
     const query = document.getElementById("searchInput").value;
