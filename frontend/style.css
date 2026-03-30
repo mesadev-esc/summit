@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+.search-box {
+  margin-top: 20px;
+}
+
+input {
+  width: 400px;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #3b82f6;
+  color: white;
+  cursor: pointer;
+}
+
+.result {
+  margin: 20px auto;
+  width: 600px;
+  text-align: left;
+}
+
+a {
+  color: #60a5fa;
+  text-decoration: none;
+}
